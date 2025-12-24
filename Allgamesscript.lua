@@ -4,7 +4,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Tdyuf/Crashouts.lua/r
     end,
 
     [109983668079237] = function()
-        loadstring(game:HttpGet("URL_SCRIPT_MAP2"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Tdyuf/Script.lua/refs/heads/main/Stealabrainrot.lua"))()
     end
 
 
